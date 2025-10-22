@@ -12,10 +12,6 @@ Bu proje, finansal performansı değerlendirmede kullanılan önemli bir metrik 
 
 ### 📐 Matematiksel Formül
 
-\[
-S = \frac{Rp - Rf}{\sigma_p}
-\]
-
 **Düz Metin Formatında:**  
 Sharpe Oranı = (Portföy Getirisi - Risksiz Faiz Oranı) / Standart Sapma
 
